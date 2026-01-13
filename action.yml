@@ -1,4 +1,5 @@
 name: "Check links with linkcheck"
+author: filiph
 description: >
   Blazing fast localhost crawling via the linkcheck tool.
 branding:
